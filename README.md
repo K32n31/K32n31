@@ -42,10 +42,10 @@
 - <a href= https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac092/6873756> <b>MAST: a hybrid Multi-Agent Spatio-Temporal model of tumor microenvironment informed using a data-driven approach</b></a>
 - <b>A Reinforcement learning approach to model free Quantum Error Correction</b> (WIP)
 
-<h3> Main projects </h3>
+<h2> Main projects </h2>
 
 
-<h4> Free time tools and simple projects </h4>
+<h2> Free time tools and simple projects </h2>
 
 
 <!--
