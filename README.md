@@ -7,35 +7,32 @@
 <p> This portfolio is currently under construction 👷 </p>
 
 <h2> Competences </h2>
-<p> </p>
-<ul>
-  <li> <b> Field of study </b>
-    <ul> 
-      <li> 🔄 Dynamic modelling </li>
-      <li> 🎛️ Control Theory </li>
-      <li> 📡 Signal theory </li> 
-      <li> 🤖 Machine Learning </li>
-      <li> 🎯 Reinforcement Learning </li>
-      <li> ⚛️ Quantum Communication & Computation </li>
-    </ul>
-  </li>  
-  <li> <b> Programming languages: </b>
-    <ul>
-      <li> 🐍 Python (& Anaconda) </li>
-      <li> 📈 MATLAB (& Simulink) </li>
-      <li> 🗄️ SQL (& SQLite)  </li>
-      <li> 📝 ACL Script</li>
-      <li> 🎵 C# </li>
-    </ul>
-  </li>
-  <li> <b> Spoken languages: </b>
-    <ul>
-      <li> 🇮🇹 Italiano (ML) </li>
-      <li> 🇬🇧 English (C1) </li>
-      <li> 🇪🇸 Español (A2) </li>
-      <li> 🇩🇪 Deutsch (A1) </li>
-    </ul>  
-</ul>
+<h3> <b> Field of study </b> </h3>
+  <ul> 
+    <li> 🔄 Dynamic modelling </li>
+    <li> 🎛️ Control Theory </li>
+    <li> 📡 Signal theory </li> 
+    <li> 🤖 Machine Learning </li>
+    <li> 🎯 Reinforcement Learning </li>
+    <li> ⚛️ Quantum Communication & Computation </li>
+  </ul>
+  
+<h3> <b> Programming languages: </b> </h3>
+  <ul>
+    <li> 🐍 Python (& Anaconda) </li>
+    <li> 📈 MATLAB (& Simulink) </li>
+    <li> 🗄️ SQL (& SQLite)  </li>
+    <li> 📝 ACL Script</li>
+    <li> 🎵 C# </li>
+  </ul>
+  
+<h3> <b> Spoken languages: </b> </h3>
+  <ul>
+    <li> 🇮🇹 Italiano (ML) </li>
+    <li> 🇬🇧 English (C1) </li>
+    <li> 🇪🇸 Español (A2) </li>
+    <li> 🇩🇪 Deutsch (A1) </li>
+  </ul>  
 
 <h2> Pubblications </h2>
 
